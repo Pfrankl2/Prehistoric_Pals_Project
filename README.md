@@ -1,1 +1,3 @@
-# Prehistoric_Pals_Project
+# Overview
+
+TeeHee Dinosaur goes "Rawr!".
